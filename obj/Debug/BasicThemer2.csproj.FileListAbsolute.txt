@@ -1,0 +1,12 @@
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\bin\Debug\BasicThemer2.exe.config
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\bin\Debug\BasicThemer2.exe
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\bin\Debug\BasicThemer2.pdb
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.csproj.AssemblyReference.cache
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.csproj.SuggestedBindingRedirects.cache
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.BasicThemer2.resources
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.Properties.Resources.resources
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.Strings.resources
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.csproj.GenerateResource.cache
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.csproj.CoreCompileInputs.cache
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.exe
+C:\Users\gram15\Downloads\BasicThemer2-detours\BasicThemer2\obj\Debug\BasicThemer2.pdb
